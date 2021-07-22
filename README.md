@@ -1,3 +1,5 @@
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fcuongdphan%2Fnextjs-typescript-tailwindcss-boilerplate)
+
 # Next.js + TypeScript + Tailwind CSS
 
 Boilerplate for Next.js, TypeScript, Tailwind CSS
