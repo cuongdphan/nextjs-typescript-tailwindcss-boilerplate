@@ -4,6 +4,12 @@
 
 Boilerplate for Next.js, TypeScript, Tailwind CSS
 
+- **[ESLint][eslint]**
+- **[Prettier][prettier]**
+- **[Absolute Imports][absimp]** - Next.js
+- **[JIT mode][jitmode], [Typography plugin][typoplug]** - Tailwind CSS
+- **[Build-time imports][btimp]** - PostCSS
+
 ## Getting Started
 
 First, run the development server:
@@ -25,3 +31,10 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 ## License
 
 [MIT](LICENSE)
+
+[eslint]: https://eslint.org/docs/user-guide/getting-started
+[prettier]: https://prettier.io/docs/en/index.html
+[absimp]: https://nextjs.org/docs/advanced-features/module-path-aliases
+[jitmode]: https://tailwindcss.com/docs/just-in-time-mode
+[typoplug]: https://tailwindcss.com/docs/plugins#typography
+[btimp]: https://tailwindcss.com/docs/using-with-preprocessors#build-time-imports

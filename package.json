@@ -1,5 +1,6 @@
 {
   "name": "nextjs-typescript-tailwindcss-boilerplate",
+  "description": "Boilerplate for Next.js, TypeScript, Tailwind CSS",
   "version": "1.0.0",
   "author": "Cuong Duy Phan",
   "license": "MIT",
