@@ -9,6 +9,7 @@ Boilerplate for Next.js, TypeScript, Tailwind CSS
 - **[Absolute Imports][absimp]** - Next.js
 - **[JIT mode][jitmode], [Typography plugin][typoplug]** - Tailwind CSS
 - **[Build-time imports][btimp]** - PostCSS
+- **[Renovate][renovate]**
 
 ## Getting Started
 
@@ -38,3 +39,4 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 [jitmode]: https://tailwindcss.com/docs/just-in-time-mode
 [typoplug]: https://tailwindcss.com/docs/plugins#typography
 [btimp]: https://tailwindcss.com/docs/using-with-preprocessors#build-time-imports
+[renovate]: https://docs.renovatebot.com/

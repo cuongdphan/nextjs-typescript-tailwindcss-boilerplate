@@ -2,8 +2,9 @@
   "extends": [
     "config:base",
     ":prNotPending",
+    ":maintainLockFilesMonthly",
     "group:allNonMajor",
-    "schedule:weekends"
+    "schedule:earlyMondays"
   ],
   "labels": ["dependencies"],
   "timezone": "Asia/Ho_Chi_Minh",
